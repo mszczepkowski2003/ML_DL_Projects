@@ -16,7 +16,7 @@ This project is built using standard data science and machine learning libraries
     * `scikit-learn` (Model building, training, and evaluation)
     * `matplotlib` / `seaborn` (Data visualization)
 
-## 📁 Repository Structure
+## 📁 Repository Structure:
 ```
 .
 ├── data/
