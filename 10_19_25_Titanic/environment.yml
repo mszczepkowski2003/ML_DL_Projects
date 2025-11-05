@@ -1,0 +1,19 @@
+name: titanic_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - joblib
+  - tqdm
+  - statsmodels
+  - pytz
+  - pip
+  - pip:
+      - target-encoder
+      - lifelines
